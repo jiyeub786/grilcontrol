@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map Ultrasonick
+# by EricK Simoes (@AloErickSimoes)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ultrasonick	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+distanceRead	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CM	LITERAL1	Constants
+INC	LITERAL1	Constants
